@@ -4,7 +4,6 @@
 Highly motivated and results-driven software developer with over **8 years of experience** in designing, developing, and implementing innovative software solutions. Demonstrated ability to work both independently and collaboratively, consistently delivering projects on time and within budget. Strong expertise in the **.NET framework, ASP.NET MVC, Angular, and various database technologies**. Currently learning **Java Spring Boot and React** to expand expertise in modern web development and **microservices architecture**.
 
 ### 💼 What I'm Working On
-- 🛒 **Stock Tracking System**: A system that tracks inventory using barcode scanning and integrates with Trendyol & Hepsiburada.
 - 🔄 **Workflow Management App**: A React & Spring Boot application for businesses to track their processes.
 - 💙 **Gönül Rahatlığı Platformu**: A platform designed to provide support and guidance for individuals seeking peace of mind and well-being.
 
